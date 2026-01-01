@@ -1,0 +1,8 @@
+# Debug mode
+debug: false
+
+# Database settings
+database:
+  type: "sqlite"
+  sqlite:
+    file: "banned_ips.db"
